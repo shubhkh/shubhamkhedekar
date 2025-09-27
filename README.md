@@ -86,4 +86,12 @@
 
 ---
 
+## 🐍 Contribution Graph Snake  
+
+<p align="center">
+  <img src="https://github.com/ShubhamKhedekar/ShubhamKhedekar/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 ⭐️ *"Turning Data into Insights, and Insights into Impact!"* 🚀  
